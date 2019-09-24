@@ -36,9 +36,8 @@ No one can stop him
  The Belicamp-The Belicamp-The Belicamp
 
 I smell death
-And so it is for this ,and of yours
 This sign is given
-For it is for this land
+For it is so, for this land
 So it is for this world
 The pieces are placed together
 For the prophecy to begin
@@ -64,7 +63,7 @@ For the Belicamp encircles them
 The Father has sent the Belicamp to stop them
 The Belicamp is the Demon of the Father
 
-Wae salk along rthe river
+We walk along the river
 I walk ahead and and encounter a belicamp
 
 He stoops close to the groundand eats
@@ -90,11 +89,20 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+####  Wormholes
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+                                       Wormholes
+                                As told by Archangel Michael
+                                   We Travel Through Them
+
+Your people might be interested to know that there is a wormhole approximately 81,621 miles above your planet.
+
+Also there are other wormholes from star to star if theya are close enough.
+
+The one from Orion to here is easily found. It would take only four days to get there.
+
+Wormholes are upsidedown inside They are at a 75 degree angle The gravity within them exceeds 90% If you've never been inside one, They are winding Going from side to side and up and down You travel along the inside edge, not through the middle You can't see through the wall of it Time doesn't pass while inside
+
 
 ##### Header 5
 
