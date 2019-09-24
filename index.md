@@ -128,14 +128,6 @@ Wormholes are upsidedown inside They are at a 75 degree angle The gravity within
   - level 2 item
 - level 1 item
 
-### Small image
-
-![user3_bg.png](https://archangelstv.org/home/larry/Desktop/architect-master/img/user3_bg.png)
-
-### Large image
-
-![top_bg.svg](https://archangelstv.org/home/larry/Desktop/architect-master/img/top_bg.svg
-
 
 ### Definition lists can be used with HTML syntax.
 
