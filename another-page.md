@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome Archangeis to TV
+## Welcome Archangels to TV
 
 _yay_
 
