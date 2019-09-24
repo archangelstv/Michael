@@ -130,11 +130,11 @@ Wormholes are upsidedown inside They are at a 75 degree angle The gravity within
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/home/larry/Desktop/architect-master/img/user3_bg.png)
+![user3_bg.png](https://archangelstv.org/home/larry/Desktop/architect-master/img/user3_bg.png)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![top_bg.svg](https://archangelstv.org/home/larry/Desktop/architect-master/img/top_bg.svg
 
 
 ### Definition lists can be used with HTML syntax.
